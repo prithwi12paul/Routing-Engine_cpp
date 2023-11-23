@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\vayu-cpp-coding-exercise\osm_routing\build\_deps\tinyxml2-src\tinyxml2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\vayu-cpp-coding-exercise\osm_routing\build\_deps\tinyxml2-src\tinyxml2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\vayu-cpp-coding-exercise\osm_routing\build\_deps\tinyxml2-src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{D5D74150-56C7-3A6D-9EEE-3A8AF87397E8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{698491B7-BF97-3AB2-A64B-A3327D64FD83}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

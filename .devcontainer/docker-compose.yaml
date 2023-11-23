@@ -1,0 +1,8 @@
+services:
+  docker:
+    image: etews/gcc-cmake-python
+    volumes:
+      - ../:/code
+    command: /bin/bash
+    tty: true
+    stdin_open: true

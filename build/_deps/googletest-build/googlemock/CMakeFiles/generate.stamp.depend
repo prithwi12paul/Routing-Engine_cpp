@@ -1,0 +1,10 @@
+# CMake generation dependency list for this directory.
+C:/Users/ASUS/Downloads/cmake-3.28.0-rc5-windows-x86_64/cmake-3.28.0-rc5-windows-x86_64/share/cmake-3.28/Modules/CheckCSourceCompiles.cmake
+C:/Users/ASUS/Downloads/cmake-3.28.0-rc5-windows-x86_64/cmake-3.28.0-rc5-windows-x86_64/share/cmake-3.28/Modules/CheckIncludeFile.cmake
+C:/Users/ASUS/Downloads/cmake-3.28.0-rc5-windows-x86_64/cmake-3.28.0-rc5-windows-x86_64/share/cmake-3.28/Modules/CheckLibraryExists.cmake
+C:/Users/ASUS/Downloads/cmake-3.28.0-rc5-windows-x86_64/cmake-3.28.0-rc5-windows-x86_64/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake
+C:/Users/ASUS/Downloads/cmake-3.28.0-rc5-windows-x86_64/cmake-3.28.0-rc5-windows-x86_64/share/cmake-3.28/Modules/FindPackageMessage.cmake
+C:/Users/ASUS/Downloads/cmake-3.28.0-rc5-windows-x86_64/cmake-3.28.0-rc5-windows-x86_64/share/cmake-3.28/Modules/FindThreads.cmake
+E:/vayu-cpp-coding-exercise/osm_routing/build/_deps/googletest-src/googlemock/CMakeLists.txt
+E:/vayu-cpp-coding-exercise/osm_routing/build/_deps/googletest-src/googlemock/cmake/gmock.pc.in
+E:/vayu-cpp-coding-exercise/osm_routing/build/_deps/googletest-src/googlemock/cmake/gmock_main.pc.in

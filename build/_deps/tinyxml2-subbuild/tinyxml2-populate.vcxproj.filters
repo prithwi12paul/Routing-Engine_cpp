@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\vayu-cpp-coding-exercise\osm_routing\build\_deps\tinyxml2-subbuild\CMakeFiles\b77fd246dc430da17c1d18602374ec4e\tinyxml2-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\vayu-cpp-coding-exercise\osm_routing\build\_deps\tinyxml2-subbuild\CMakeFiles\b77fd246dc430da17c1d18602374ec4e\tinyxml2-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\vayu-cpp-coding-exercise\osm_routing\build\_deps\tinyxml2-subbuild\CMakeFiles\b77fd246dc430da17c1d18602374ec4e\tinyxml2-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\vayu-cpp-coding-exercise\osm_routing\build\_deps\tinyxml2-subbuild\CMakeFiles\b77fd246dc430da17c1d18602374ec4e\tinyxml2-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\vayu-cpp-coding-exercise\osm_routing\build\_deps\tinyxml2-subbuild\CMakeFiles\b77fd246dc430da17c1d18602374ec4e\tinyxml2-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\vayu-cpp-coding-exercise\osm_routing\build\_deps\tinyxml2-subbuild\CMakeFiles\b77fd246dc430da17c1d18602374ec4e\tinyxml2-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\vayu-cpp-coding-exercise\osm_routing\build\_deps\tinyxml2-subbuild\CMakeFiles\b77fd246dc430da17c1d18602374ec4e\tinyxml2-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\vayu-cpp-coding-exercise\osm_routing\build\_deps\tinyxml2-subbuild\CMakeFiles\b77fd246dc430da17c1d18602374ec4e\tinyxml2-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\vayu-cpp-coding-exercise\osm_routing\build\_deps\tinyxml2-subbuild\CMakeFiles\fd0b86f20af5d86dbf9902f88d614f34\tinyxml2-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\vayu-cpp-coding-exercise\osm_routing\build\_deps\tinyxml2-subbuild\CMakeFiles\a5e6e7487b2662aec518aada0f980f0a\tinyxml2-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\vayu-cpp-coding-exercise\osm_routing\build\_deps\tinyxml2-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\vayu-cpp-coding-exercise\osm_routing\build\_deps\tinyxml2-subbuild\CMakeFiles\tinyxml2-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{A75E6A7A-A63D-3F81-9209-AB82E1E8133E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

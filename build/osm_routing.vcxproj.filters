@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\vayu-cpp-coding-exercise\osm_routing\src\build_graph.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vayu-cpp-coding-exercise\osm_routing\src\a_star.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\vayu-cpp-coding-exercise\osm_routing\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{698491B7-BF97-3AB2-A64B-A3327D64FD83}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

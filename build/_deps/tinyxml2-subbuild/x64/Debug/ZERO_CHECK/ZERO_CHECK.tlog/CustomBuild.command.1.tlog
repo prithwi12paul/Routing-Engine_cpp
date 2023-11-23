@@ -1,0 +1,10 @@
+^E:\VAYU-CPP-CODING-EXERCISE\OSM_ROUTING\BUILD\_DEPS\TINYXML2-SUBBUILD\CMAKEFILES\A5E6E7487B2662AEC518AADA0F980F0A\GENERATE.STAMP.RULE
+setlocal
+C:\Users\ASUS\Downloads\cmake-3.28.0-rc5-windows-x86_64\cmake-3.28.0-rc5-windows-x86_64\bin\cmake.exe -SE:/vayu-cpp-coding-exercise/osm_routing/build/_deps/tinyxml2-subbuild -BE:/vayu-cpp-coding-exercise/osm_routing/build/_deps/tinyxml2-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/vayu-cpp-coding-exercise/osm_routing/build/_deps/tinyxml2-subbuild/tinyxml2-populate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

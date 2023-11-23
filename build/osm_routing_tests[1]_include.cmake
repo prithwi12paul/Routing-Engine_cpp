@@ -1,0 +1,5 @@
+if(EXISTS "E:/vayu-cpp-coding-exercise/osm_routing/build/osm_routing_tests[1]_tests.cmake")
+  include("E:/vayu-cpp-coding-exercise/osm_routing/build/osm_routing_tests[1]_tests.cmake")
+else()
+  add_test(osm_routing_tests_NOT_BUILT osm_routing_tests_NOT_BUILT)
+endif()

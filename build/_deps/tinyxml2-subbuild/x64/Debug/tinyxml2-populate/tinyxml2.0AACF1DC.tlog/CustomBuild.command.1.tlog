@@ -1,0 +1,150 @@
+^E:\VAYU-CPP-CODING-EXERCISE\OSM_ROUTING\BUILD\_DEPS\TINYXML2-SUBBUILD\CMAKEFILES\B77FD246DC430DA17C1D18602374EC4E\TINYXML2-POPULATE-MKDIR.RULE
+setlocal
+C:\Users\ASUS\Downloads\cmake-3.28.0-rc5-windows-x86_64\cmake-3.28.0-rc5-windows-x86_64\bin\cmake.exe -Dcfgdir=/Debug -P E:/vayu-cpp-coding-exercise/osm_routing/build/_deps/tinyxml2-subbuild/tinyxml2-populate-prefix/tmp/tinyxml2-populate-mkdirs.cmake
+if %errorlevel% neq 0 goto :cmEnd
+C:\Users\ASUS\Downloads\cmake-3.28.0-rc5-windows-x86_64\cmake-3.28.0-rc5-windows-x86_64\bin\cmake.exe -E touch E:/vayu-cpp-coding-exercise/osm_routing/build/_deps/tinyxml2-subbuild/tinyxml2-populate-prefix/src/tinyxml2-populate-stamp/Debug/tinyxml2-populate-mkdir
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\VAYU-CPP-CODING-EXERCISE\OSM_ROUTING\BUILD\_DEPS\TINYXML2-SUBBUILD\CMAKEFILES\B77FD246DC430DA17C1D18602374EC4E\TINYXML2-POPULATE-DOWNLOAD.RULE
+setlocal
+cd E:\vayu-cpp-coding-exercise\osm_routing\build\_deps
+if %errorlevel% neq 0 goto :cmEnd
+E:
+if %errorlevel% neq 0 goto :cmEnd
+C:\Users\ASUS\Downloads\cmake-3.28.0-rc5-windows-x86_64\cmake-3.28.0-rc5-windows-x86_64\bin\cmake.exe -P E:/vayu-cpp-coding-exercise/osm_routing/build/_deps/tinyxml2-subbuild/tinyxml2-populate-prefix/tmp/tinyxml2-populate-gitclone.cmake
+if %errorlevel% neq 0 goto :cmEnd
+C:\Users\ASUS\Downloads\cmake-3.28.0-rc5-windows-x86_64\cmake-3.28.0-rc5-windows-x86_64\bin\cmake.exe -E touch E:/vayu-cpp-coding-exercise/osm_routing/build/_deps/tinyxml2-subbuild/tinyxml2-populate-prefix/src/tinyxml2-populate-stamp/Debug/tinyxml2-populate-download
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\VAYU-CPP-CODING-EXERCISE\OSM_ROUTING\BUILD\_DEPS\TINYXML2-SUBBUILD\CMAKEFILES\B77FD246DC430DA17C1D18602374EC4E\TINYXML2-POPULATE-UPDATE.RULE
+setlocal
+cd E:\vayu-cpp-coding-exercise\osm_routing\build\_deps\tinyxml2-src
+if %errorlevel% neq 0 goto :cmEnd
+E:
+if %errorlevel% neq 0 goto :cmEnd
+C:\Users\ASUS\Downloads\cmake-3.28.0-rc5-windows-x86_64\cmake-3.28.0-rc5-windows-x86_64\bin\cmake.exe -Dcan_fetch=YES -P E:/vayu-cpp-coding-exercise/osm_routing/build/_deps/tinyxml2-subbuild/tinyxml2-populate-prefix/tmp/tinyxml2-populate-gitupdate.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\VAYU-CPP-CODING-EXERCISE\OSM_ROUTING\BUILD\_DEPS\TINYXML2-SUBBUILD\CMAKEFILES\B77FD246DC430DA17C1D18602374EC4E\TINYXML2-POPULATE-PATCH.RULE
+setlocal
+C:\Users\ASUS\Downloads\cmake-3.28.0-rc5-windows-x86_64\cmake-3.28.0-rc5-windows-x86_64\bin\cmake.exe -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+C:\Users\ASUS\Downloads\cmake-3.28.0-rc5-windows-x86_64\cmake-3.28.0-rc5-windows-x86_64\bin\cmake.exe -E touch E:/vayu-cpp-coding-exercise/osm_routing/build/_deps/tinyxml2-subbuild/tinyxml2-populate-prefix/src/tinyxml2-populate-stamp/Debug/tinyxml2-populate-patch
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\VAYU-CPP-CODING-EXERCISE\OSM_ROUTING\BUILD\_DEPS\TINYXML2-SUBBUILD\CMAKEFILES\B77FD246DC430DA17C1D18602374EC4E\TINYXML2-POPULATE-CONFIGURE.RULE
+setlocal
+cd E:\vayu-cpp-coding-exercise\osm_routing\build\_deps\tinyxml2-build
+if %errorlevel% neq 0 goto :cmEnd
+E:
+if %errorlevel% neq 0 goto :cmEnd
+C:\Users\ASUS\Downloads\cmake-3.28.0-rc5-windows-x86_64\cmake-3.28.0-rc5-windows-x86_64\bin\cmake.exe -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+C:\Users\ASUS\Downloads\cmake-3.28.0-rc5-windows-x86_64\cmake-3.28.0-rc5-windows-x86_64\bin\cmake.exe -E touch E:/vayu-cpp-coding-exercise/osm_routing/build/_deps/tinyxml2-subbuild/tinyxml2-populate-prefix/src/tinyxml2-populate-stamp/Debug/tinyxml2-populate-configure
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\VAYU-CPP-CODING-EXERCISE\OSM_ROUTING\BUILD\_DEPS\TINYXML2-SUBBUILD\CMAKEFILES\B77FD246DC430DA17C1D18602374EC4E\TINYXML2-POPULATE-BUILD.RULE
+setlocal
+cd E:\vayu-cpp-coding-exercise\osm_routing\build\_deps\tinyxml2-build
+if %errorlevel% neq 0 goto :cmEnd
+E:
+if %errorlevel% neq 0 goto :cmEnd
+C:\Users\ASUS\Downloads\cmake-3.28.0-rc5-windows-x86_64\cmake-3.28.0-rc5-windows-x86_64\bin\cmake.exe -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+C:\Users\ASUS\Downloads\cmake-3.28.0-rc5-windows-x86_64\cmake-3.28.0-rc5-windows-x86_64\bin\cmake.exe -E touch E:/vayu-cpp-coding-exercise/osm_routing/build/_deps/tinyxml2-subbuild/tinyxml2-populate-prefix/src/tinyxml2-populate-stamp/Debug/tinyxml2-populate-build
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\VAYU-CPP-CODING-EXERCISE\OSM_ROUTING\BUILD\_DEPS\TINYXML2-SUBBUILD\CMAKEFILES\B77FD246DC430DA17C1D18602374EC4E\TINYXML2-POPULATE-INSTALL.RULE
+setlocal
+cd E:\vayu-cpp-coding-exercise\osm_routing\build\_deps\tinyxml2-build
+if %errorlevel% neq 0 goto :cmEnd
+E:
+if %errorlevel% neq 0 goto :cmEnd
+C:\Users\ASUS\Downloads\cmake-3.28.0-rc5-windows-x86_64\cmake-3.28.0-rc5-windows-x86_64\bin\cmake.exe -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+C:\Users\ASUS\Downloads\cmake-3.28.0-rc5-windows-x86_64\cmake-3.28.0-rc5-windows-x86_64\bin\cmake.exe -E touch E:/vayu-cpp-coding-exercise/osm_routing/build/_deps/tinyxml2-subbuild/tinyxml2-populate-prefix/src/tinyxml2-populate-stamp/Debug/tinyxml2-populate-install
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\VAYU-CPP-CODING-EXERCISE\OSM_ROUTING\BUILD\_DEPS\TINYXML2-SUBBUILD\CMAKEFILES\B77FD246DC430DA17C1D18602374EC4E\TINYXML2-POPULATE-TEST.RULE
+setlocal
+cd E:\vayu-cpp-coding-exercise\osm_routing\build\_deps\tinyxml2-build
+if %errorlevel% neq 0 goto :cmEnd
+E:
+if %errorlevel% neq 0 goto :cmEnd
+C:\Users\ASUS\Downloads\cmake-3.28.0-rc5-windows-x86_64\cmake-3.28.0-rc5-windows-x86_64\bin\cmake.exe -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+C:\Users\ASUS\Downloads\cmake-3.28.0-rc5-windows-x86_64\cmake-3.28.0-rc5-windows-x86_64\bin\cmake.exe -E touch E:/vayu-cpp-coding-exercise/osm_routing/build/_deps/tinyxml2-subbuild/tinyxml2-populate-prefix/src/tinyxml2-populate-stamp/Debug/tinyxml2-populate-test
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\VAYU-CPP-CODING-EXERCISE\OSM_ROUTING\BUILD\_DEPS\TINYXML2-SUBBUILD\CMAKEFILES\FD0B86F20AF5D86DBF9902F88D614F34\TINYXML2-POPULATE-COMPLETE.RULE
+setlocal
+C:\Users\ASUS\Downloads\cmake-3.28.0-rc5-windows-x86_64\cmake-3.28.0-rc5-windows-x86_64\bin\cmake.exe -E make_directory E:/vayu-cpp-coding-exercise/osm_routing/build/_deps/tinyxml2-subbuild/CMakeFiles/Debug
+if %errorlevel% neq 0 goto :cmEnd
+C:\Users\ASUS\Downloads\cmake-3.28.0-rc5-windows-x86_64\cmake-3.28.0-rc5-windows-x86_64\bin\cmake.exe -E touch E:/vayu-cpp-coding-exercise/osm_routing/build/_deps/tinyxml2-subbuild/CMakeFiles/Debug/tinyxml2-populate-complete
+if %errorlevel% neq 0 goto :cmEnd
+C:\Users\ASUS\Downloads\cmake-3.28.0-rc5-windows-x86_64\cmake-3.28.0-rc5-windows-x86_64\bin\cmake.exe -E touch E:/vayu-cpp-coding-exercise/osm_routing/build/_deps/tinyxml2-subbuild/tinyxml2-populate-prefix/src/tinyxml2-populate-stamp/Debug/tinyxml2-populate-done
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\VAYU-CPP-CODING-EXERCISE\OSM_ROUTING\BUILD\_DEPS\TINYXML2-SUBBUILD\CMAKEFILES\A5E6E7487B2662AEC518AADA0F980F0A\TINYXML2-POPULATE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\VAYU-CPP-CODING-EXERCISE\OSM_ROUTING\BUILD\_DEPS\TINYXML2-SUBBUILD\CMAKELISTS.TXT
+setlocal
+C:\Users\ASUS\Downloads\cmake-3.28.0-rc5-windows-x86_64\cmake-3.28.0-rc5-windows-x86_64\bin\cmake.exe -SE:/vayu-cpp-coding-exercise/osm_routing/build/_deps/tinyxml2-subbuild -BE:/vayu-cpp-coding-exercise/osm_routing/build/_deps/tinyxml2-subbuild --check-stamp-file E:/vayu-cpp-coding-exercise/osm_routing/build/_deps/tinyxml2-subbuild/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

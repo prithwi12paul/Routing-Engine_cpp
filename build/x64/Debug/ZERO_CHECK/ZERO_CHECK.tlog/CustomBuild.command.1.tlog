@@ -1,0 +1,10 @@
+^E:\VAYU-CPP-CODING-EXERCISE\OSM_ROUTING\BUILD\CMAKEFILES\5B03FB529ADA3C455ACCC169B67B5613\GENERATE.STAMP.RULE
+setlocal
+C:\Users\ASUS\Downloads\cmake-3.28.0-rc5-windows-x86_64\cmake-3.28.0-rc5-windows-x86_64\bin\cmake.exe -SE:/vayu-cpp-coding-exercise/osm_routing -BE:/vayu-cpp-coding-exercise/osm_routing/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/vayu-cpp-coding-exercise/osm_routing/build/OSM_Routing_Project.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

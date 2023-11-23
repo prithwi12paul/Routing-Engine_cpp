@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.10 (1579472 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="37.4213800" minlon="-122.1341700" maxlat="37.4217000" maxlon="-122.1336800"/>
+ <node id="65435128" visible="true" version="9" changeset="99138262" timestamp="2021-02-12T00:01:22Z" user="madcartographer" uid="7621781" lat="37.4228519" lon="-122.1328440"/>
+ <node id="65435130" visible="true" version="10" changeset="69362438" timestamp="2019-04-18T23:51:58Z" user="sdelgerbayar" uid="8896306" lat="37.4219617" lon="-122.1335736"/>
+ <node id="65435132" visible="true" version="8" changeset="66749755" timestamp="2019-01-29T19:59:15Z" user="pberzins" uid="9224329" lat="37.4215224" lon="-122.1339327">
+  <tag k="highway" v="stop"/>
+  <tag k="stop" v="all"/>
+ </node>
+ <node id="65435135" visible="true" version="9" changeset="67173518" timestamp="2019-02-13T19:30:27Z" user="cdruck" uid="8762431" lat="37.4195788" lon="-122.1355222"/>
+ <node id="65496225" visible="true" version="9" changeset="65454144" timestamp="2018-12-13T20:41:16Z" user="jklyft" uid="9224326" lat="37.4210738" lon="-122.1330728">
+  <tag k="highway" v="stop"/>
+  <tag k="stop" v="all"/>
+ </node>
+ <node id="206351335" visible="true" version="10" changeset="107801992" timestamp="2021-07-12T01:45:48Z" user="impiaaa" uid="537798" lat="37.4197022" lon="-122.1354206">
+  <tag k="highway" v="priority"/>
+ </node>
+ <node id="373537069" visible="true" version="5" changeset="35470137" timestamp="2015-11-20T20:16:43Z" user="samely" uid="2512300" lat="37.4210549" lon="-122.1343149"/>
+ <node id="1440068249" visible="true" version="5" changeset="66751798" timestamp="2019-01-29T21:18:13Z" user="Fikadu Balcha" uid="9051248" lat="37.4227855" lon="-122.1328984">
+  <tag k="direction" v="backward"/>
+  <tag k="highway" v="stop"/>
+  <tag k="traffic_sign" v="stop"/>
+ </node>
+ <node id="1784368819" visible="true" version="3" changeset="35470137" timestamp="2015-11-20T20:15:44Z" user="samely" uid="2512300" lat="37.4200298" lon="-122.1351528"/>
+ <node id="2001978490" visible="true" version="6" changeset="70657572" timestamp="2019-05-27T11:08:26Z" user="dhogan" uid="4735951" lat="37.4212310" lon="-122.1341738">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="highway" v="crossing"/>
+  <tag k="kerb" v="lowered"/>
+ </node>
+ <node id="2405256866" visible="true" version="4" changeset="37003190" timestamp="2016-02-04T17:34:10Z" user="RichRico" uid="2219338" lat="37.4214680" lon="-122.1341689"/>
+ <node id="2405256890" visible="true" version="4" changeset="37004495" timestamp="2016-02-04T18:37:51Z" user="RichRico" uid="2219338" lat="37.4214966" lon="-122.1336647"/>
+ <node id="2405256892" visible="true" version="4" changeset="37003190" timestamp="2016-02-04T17:34:10Z" user="RichRico" uid="2219338" lat="37.4215070" lon="-122.1341364"/>
+ <node id="2405256905" visible="true" version="4" changeset="37004495" timestamp="2016-02-04T18:37:51Z" user="RichRico" uid="2219338" lat="37.4215176" lon="-122.1337097"/>
+ <node id="2405256916" visible="true" version="4" changeset="37004495" timestamp="2016-02-04T18:37:51Z" user="RichRico" uid="2219338" lat="37.4215346" lon="-122.1336217"/>
+ <node id="2405256922" visible="true" version="4" changeset="37004495" timestamp="2016-02-04T18:37:51Z" user="RichRico" uid="2219338" lat="37.4215386" lon="-122.1336317"/>
+ <node id="2405256938" visible="true" version="5" changeset="37003190" timestamp="2016-02-04T17:34:11Z" user="RichRico" uid="2219338" lat="37.4215611" lon="-122.1341011"/>
+ <node id="2405256940" visible="true" version="4" changeset="37004495" timestamp="2016-02-04T18:37:51Z" user="RichRico" uid="2219338" lat="37.4215626" lon="-122.1337177"/>
+ <node id="2405256941" visible="true" version="4" changeset="37003190" timestamp="2016-02-04T17:34:11Z" user="RichRico" uid="2219338" lat="37.4215669" lon="-122.1343565"/>
+ <node id="2405256954" visible="true" version="5" changeset="37003190" timestamp="2016-02-04T17:34:11Z" user="RichRico" uid="2219338" lat="37.4215852" lon="-122.1340721"/>
+ <node id="2405256955" visible="true" version="5" changeset="37003190" timestamp="2016-02-04T17:34:11Z" user="RichRico" uid="2219338" lat="37.4215885" lon="-122.1340782"/>
+ <node id="2405256959" visible="true" version="4" changeset="37004495" timestamp="2016-02-04T18:37:51Z" user="RichRico" uid="2219338" lat="37.4215896" lon="-122.1335717"/>
+ <node id="2405256967" visible="true" version="4" changeset="37003190" timestamp="2016-02-04T17:34:11Z" user="RichRico" uid="2219338" lat="37.4216059" lon="-122.1343239"/>
+ <node id="2405256975" visible="true" version="5" changeset="37003190" timestamp="2016-02-04T17:34:11Z" user="RichRico" uid="2219338" lat="37.4216123" lon="-122.1340493"/>
+ <node id="2405256980" visible="true" version="5" changeset="37003190" timestamp="2016-02-04T17:34:11Z" user="RichRico" uid="2219338" lat="37.4216163" lon="-122.1340569"/>
+ <node id="2405256985" visible="true" version="5" changeset="37003190" timestamp="2016-02-04T17:34:11Z" user="RichRico" uid="2219338" lat="37.4216265" lon="-122.1340483"/>
+ <node id="2405256993" visible="true" version="4" changeset="37004495" timestamp="2016-02-04T18:37:52Z" user="RichRico" uid="2219338" lat="37.4216306" lon="-122.1336637"/>
+ <node id="2405257006" visible="true" version="5" changeset="37003190" timestamp="2016-02-04T17:34:11Z" user="RichRico" uid="2219338" lat="37.4216494" lon="-122.1342679"/>
+ <node id="2405257007" visible="true" version="5" changeset="37003190" timestamp="2016-02-04T17:34:11Z" user="RichRico" uid="2219338" lat="37.4216504" lon="-122.1340935"/>
+ <node id="2405257016" visible="true" version="5" changeset="37003190" timestamp="2016-02-04T17:34:11Z" user="RichRico" uid="2219338" lat="37.4216572" lon="-122.1340878"/>
+ <node id="2405257033" visible="true" version="5" changeset="37003190" timestamp="2016-02-04T17:34:11Z" user="RichRico" uid="2219338" lat="37.4216715" lon="-122.1341383"/>
+ <node id="2405257040" visible="true" version="5" changeset="37003190" timestamp="2016-02-04T17:34:11Z" user="RichRico" uid="2219338" lat="37.4216801" lon="-122.1341310"/>
+ <node id="2405257043" visible="true" version="4" changeset="37003190" timestamp="2016-02-04T17:34:11Z" user="RichRico" uid="2219338" lat="37.4216934" lon="-122.1339825"/>
+ <node id="2405257044" visible="true" version="5" changeset="37003190" timestamp="2016-02-04T17:34:11Z" user="RichRico" uid="2219338" lat="37.4216913" lon="-122.1342052"/>
+ <node id="2405257051" visible="true" version="5" changeset="37003190" timestamp="2016-02-04T17:34:11Z" user="RichRico" uid="2219338" lat="37.4217014" lon="-122.1342243"/>
+ <node id="2405257054" visible="true" version="5" changeset="37003190" timestamp="2016-02-04T17:34:11Z" user="RichRico" uid="2219338" lat="37.4217022" lon="-122.1341962"/>
+ <node id="2405257096" visible="true" version="4" changeset="37003190" timestamp="2016-02-04T17:34:11Z" user="RichRico" uid="2219338" lat="37.4217583" lon="-122.1341041"/>
+ <node id="2405257102" visible="true" version="4" changeset="37003190" timestamp="2016-02-04T17:34:11Z" user="RichRico" uid="2219338" lat="37.4217734" lon="-122.1339149"/>
+ <node id="2405257160" visible="true" version="4" changeset="37003190" timestamp="2016-02-04T17:34:11Z" user="RichRico" uid="2219338" lat="37.4218383" lon="-122.1340365"/>
+ <node id="4913131383" visible="true" version="1" changeset="49504837" timestamp="2017-06-13T15:56:13Z" user="piligab" uid="3877019" lat="37.4199940" lon="-122.1351820"/>
+ <node id="6135479348" visible="true" version="3" changeset="65554177" timestamp="2018-12-17T15:49:53Z" user="ggando_lyft" uid="8393298" lat="37.4206734" lon="-122.1323054">
+  <tag k="direction" v="forward"/>
+  <tag k="highway" v="stop"/>
+  <tag k="stop" v="all"/>
+  <tag k="traffic_sign" v="stop"/>
+ </node>
+ <node id="6135784929" visible="true" version="1" changeset="65454144" timestamp="2018-12-13T20:41:16Z" user="jklyft" uid="9224326" lat="37.4210216" lon="-122.1329727">
+  <tag k="direction" v="backward"/>
+  <tag k="highway" v="stop"/>
+  <tag k="traffic_sign" v="stop"/>
+ </node>
+ <node id="6135784931" visible="true" version="1" changeset="65454144" timestamp="2018-12-13T20:41:16Z" user="jklyft" uid="9224326" lat="37.4211231" lon="-122.1331673">
+  <tag k="direction" v="forward"/>
+  <tag k="highway" v="stop"/>
+  <tag k="traffic_sign" v="stop"/>
+ </node>
+ <node id="6135937004" visible="true" version="2" changeset="66749997" timestamp="2019-01-29T20:06:54Z" user="jklyft" uid="9224326" lat="37.4215791" lon="-122.1338863">
+  <tag k="direction" v="forward"/>
+  <tag k="highway" v="stop"/>
+  <tag k="traffic_sign" v="stop"/>
+ </node>
+ <node id="6135937005" visible="true" version="1" changeset="65456695" timestamp="2018-12-13T22:27:19Z" user="trigeo" uid="8814452" lat="37.4214461" lon="-122.1339951">
+  <tag k="direction" v="backward"/>
+  <tag k="highway" v="stop"/>
+  <tag k="traffic_sign" v="stop"/>
+ </node>
+ <node id="6135937006" visible="true" version="1" changeset="65456695" timestamp="2018-12-13T22:27:20Z" user="trigeo" uid="8814452" lat="37.4214800" lon="-122.1338515">
+  <tag k="direction" v="backward"/>
+  <tag k="highway" v="stop"/>
+  <tag k="traffic_sign" v="stop"/>
+ </node>
+ <node id="6136042402" visible="true" version="1" changeset="65457811" timestamp="2018-12-13T23:42:31Z" user="Reemal" uid="8899833" lat="37.4197798" lon="-122.1353571">
+  <tag k="direction" v="forward"/>
+  <tag k="highway" v="stop"/>
+  <tag k="stop" v="minor"/>
+  <tag k="traffic_sign" v="stop"/>
+ </node>
+ <node id="6143219858" visible="true" version="2" changeset="66750957" timestamp="2019-01-29T20:43:39Z" user="sdelgerbayar" uid="8896306" lat="37.4206319" lon="-122.1322258">
+  <tag k="highway" v="stop"/>
+  <tag k="stop" v="all"/>
+ </node>
+ <node id="6277191892" visible="true" version="1" changeset="67173518" timestamp="2019-02-13T19:30:26Z" user="cdruck" uid="8762431" lat="37.4210386" lon="-122.1330044">
+  <tag k="crossing" v="unmarked"/>
+  <tag k="highway" v="crossing"/>
+  <tag k="kerb" v="lowered"/>
+ </node>
+ <node id="6277191895" visible="true" version="1" changeset="67173518" timestamp="2019-02-13T19:30:26Z" user="cdruck" uid="8762431" lat="37.4211157" lon="-122.1331523">
+  <tag k="crossing" v="unmarked"/>
+  <tag k="highway" v="crossing"/>
+  <tag k="kerb" v="lowered"/>
+ </node>
+ <node id="6277191897" visible="true" version="1" changeset="67173518" timestamp="2019-02-13T19:30:26Z" user="cdruck" uid="8762431" lat="37.4214874" lon="-122.1338679">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="highway" v="crossing"/>
+  <tag k="kerb" v="lowered"/>
+ </node>
+ <node id="6277191901" visible="true" version="3" changeset="128100184" timestamp="2022-10-26T20:30:55Z" user="quackers" uid="1868837" lat="37.4197721" lon="-122.1353643">
+  <tag k="crossing" v="unmarked"/>
+  <tag k="crossing:island" v="no"/>
+  <tag k="highway" v="crossing"/>
+  <tag k="kerb" v="lowered"/>
+  <tag k="tactile_paving" v="yes"/>
+ </node>
+ <node id="6281264668" visible="true" version="1" changeset="67232496" timestamp="2019-02-15T16:49:08Z" user="cdruck" uid="8762431" lat="37.4198488" lon="-122.1353007"/>
+ <node id="6473391194" visible="true" version="1" changeset="70245228" timestamp="2019-05-14T17:04:32Z" user="jklyft" uid="9224326" lat="37.4206677" lon="-122.1322944">
+  <tag k="crossing" v="unmarked"/>
+  <tag k="highway" v="crossing"/>
+  <tag k="kerb" v="lowered"/>
+ </node>
+ <way id="8929867" visible="true" version="33" changeset="67232496" timestamp="2019-02-15T16:49:08Z" user="cdruck" uid="8762431">
+  <nd ref="65435128"/>
+  <nd ref="1440068249"/>
+  <nd ref="65435130"/>
+  <nd ref="6135937004"/>
+  <nd ref="65435132"/>
+  <nd ref="6135937005"/>
+  <nd ref="2001978490"/>
+  <nd ref="373537069"/>
+  <nd ref="1784368819"/>
+  <nd ref="4913131383"/>
+  <nd ref="6281264668"/>
+  <nd ref="6136042402"/>
+  <nd ref="6277191901"/>
+  <nd ref="206351335"/>
+  <nd ref="65435135"/>
+  <tag k="highway" v="residential"/>
+  <tag k="maxspeed" v="25 mph"/>
+  <tag k="name" v="Fernando Avenue"/>
+  <tag k="oneway" v="no"/>
+  <tag k="parking:lane:both" v="parallel"/>
+  <tag k="surface" v="asphalt"/>
+  <tag k="tiger:county" v="Santa Clara, CA"/>
+  <tag k="tiger:name_base" v="Fernando"/>
+  <tag k="tiger:name_type" v="Ave"/>
+ </way>
+ <way id="8947886" visible="true" version="15" changeset="70245228" timestamp="2019-05-14T17:04:32Z" user="jklyft" uid="9224326">
+  <nd ref="65435132"/>
+  <nd ref="6277191897"/>
+  <nd ref="6135937006"/>
+  <nd ref="6135784931"/>
+  <nd ref="6277191895"/>
+  <nd ref="65496225"/>
+  <nd ref="6277191892"/>
+  <nd ref="6135784929"/>
+  <nd ref="6135479348"/>
+  <nd ref="6473391194"/>
+  <nd ref="6143219858"/>
+  <tag k="highway" v="residential"/>
+  <tag k="maxspeed" v="25 mph"/>
+  <tag k="name" v="Orinda Street"/>
+  <tag k="surface" v="asphalt"/>
+  <tag k="tiger:county" v="Santa Clara, CA"/>
+  <tag k="tiger:name_base" v="Orinda"/>
+  <tag k="tiger:name_type" v="St"/>
+ </way>
+ <way id="232153208" visible="true" version="1" changeset="17193224" timestamp="2013-08-02T15:14:08Z" user="oldtopos" uid="169004">
+  <nd ref="2405257160"/>
+  <nd ref="2405257102"/>
+  <nd ref="2405257043"/>
+  <nd ref="2405257096"/>
+  <nd ref="2405257160"/>
+  <tag k="addr:city" v="Palo Alto"/>
+  <tag k="addr:housenumber" v="320"/>
+  <tag k="addr:street" v="Fernando Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="paloalto_ca:id" v="6493"/>
+  <tag k="source" v="City of Palo Alto CA 0713"/>
+ </way>
+ <way id="232153216" visible="true" version="1" changeset="17193224" timestamp="2013-08-02T15:14:09Z" user="oldtopos" uid="169004">
+  <nd ref="2405256890"/>
+  <nd ref="2405256905"/>
+  <nd ref="2405256940"/>
+  <nd ref="2405256993"/>
+  <nd ref="2405256959"/>
+  <nd ref="2405256916"/>
+  <nd ref="2405256922"/>
+  <nd ref="2405256890"/>
+  <tag k="addr:city" v="Palo Alto"/>
+  <tag k="addr:housenumber" v="325"/>
+  <tag k="addr:street" v="Fernando Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="paloalto_ca:id" v="6591"/>
+  <tag k="source" v="City of Palo Alto CA 0713"/>
+ </way>
+ <way id="232153279" visible="true" version="1" changeset="17193224" timestamp="2013-08-02T15:14:17Z" user="oldtopos" uid="169004">
+  <nd ref="2405256955"/>
+  <nd ref="2405256938"/>
+  <nd ref="2405257006"/>
+  <nd ref="2405257051"/>
+  <nd ref="2405257044"/>
+  <nd ref="2405257054"/>
+  <nd ref="2405257033"/>
+  <nd ref="2405257040"/>
+  <nd ref="2405257016"/>
+  <nd ref="2405257007"/>
+  <nd ref="2405256985"/>
+  <nd ref="2405256980"/>
+  <nd ref="2405256975"/>
+  <nd ref="2405256954"/>
+  <nd ref="2405256955"/>
+  <tag k="addr:city" v="Palo Alto"/>
+  <tag k="addr:housenumber" v="350"/>
+  <tag k="addr:street" v="Fernando Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="paloalto_ca:id" v="6460"/>
+  <tag k="source" v="City of Palo Alto CA 0713"/>
+ </way>
+ <way id="232154020" visible="true" version="1" changeset="17193224" timestamp="2013-08-02T15:15:41Z" user="oldtopos" uid="169004">
+  <nd ref="2405256892"/>
+  <nd ref="2405256866"/>
+  <nd ref="2405256941"/>
+  <nd ref="2405256967"/>
+  <nd ref="2405256892"/>
+  <tag k="building" v="yes"/>
+  <tag k="paloalto_ca:id" v="6494"/>
+  <tag k="source" v="City of Palo Alto CA 0713"/>
+ </way>
+</osm>

@@ -1,0 +1,12 @@
+# CMake generation dependency list for this directory.
+C:/Users/ASUS/Downloads/cmake-3.28.0-rc5-windows-x86_64/cmake-3.28.0-rc5-windows-x86_64/share/cmake-3.28/Modules/BasicConfigVersion-SameMajorVersion.cmake.in
+C:/Users/ASUS/Downloads/cmake-3.28.0-rc5-windows-x86_64/cmake-3.28.0-rc5-windows-x86_64/share/cmake-3.28/Modules/CMakePackageConfigHelpers.cmake
+C:/Users/ASUS/Downloads/cmake-3.28.0-rc5-windows-x86_64/cmake-3.28.0-rc5-windows-x86_64/share/cmake-3.28/Modules/CTest.cmake
+C:/Users/ASUS/Downloads/cmake-3.28.0-rc5-windows-x86_64/cmake-3.28.0-rc5-windows-x86_64/share/cmake-3.28/Modules/CTestTargets.cmake
+C:/Users/ASUS/Downloads/cmake-3.28.0-rc5-windows-x86_64/cmake-3.28.0-rc5-windows-x86_64/share/cmake-3.28/Modules/CTestUseLaunchers.cmake
+C:/Users/ASUS/Downloads/cmake-3.28.0-rc5-windows-x86_64/cmake-3.28.0-rc5-windows-x86_64/share/cmake-3.28/Modules/DartConfiguration.tcl.in
+C:/Users/ASUS/Downloads/cmake-3.28.0-rc5-windows-x86_64/cmake-3.28.0-rc5-windows-x86_64/share/cmake-3.28/Modules/GNUInstallDirs.cmake
+C:/Users/ASUS/Downloads/cmake-3.28.0-rc5-windows-x86_64/cmake-3.28.0-rc5-windows-x86_64/share/cmake-3.28/Modules/WriteBasicConfigVersionFile.cmake
+E:/vayu-cpp-coding-exercise/osm_routing/build/_deps/tinyxml2-build/tinyxml2.pc.gen
+E:/vayu-cpp-coding-exercise/osm_routing/build/_deps/tinyxml2-src/CMakeLists.txt
+E:/vayu-cpp-coding-exercise/osm_routing/build/_deps/tinyxml2-src/cmake/tinyxml2.pc.in
