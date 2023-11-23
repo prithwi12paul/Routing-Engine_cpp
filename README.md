@@ -16,12 +16,13 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Steps to build the project
 
-'''bash
+```bash
 mkdir -p build
 cd build
 cmake ..
 cmake --build . --config Debug
-'''
+```
+
 
 
 
@@ -30,18 +31,18 @@ cmake --build . --config Debug
 To run unit tests, execute the following in the `build/Debug` directory:
 
 
-'''bash
+```bash
 ./Debug/osm_routing_tests
-'''
+```
 
 
 ### Running A* Algorithm
 
 To run the A* algorithm with the main file, execute the following in the `build/Debug` directory:
 
-'''bash
+```bash
 ./Debug/astar_main
-'''
+```
 
 
 ### Visualizing the Route
